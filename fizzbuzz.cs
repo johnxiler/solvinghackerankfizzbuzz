@@ -20,6 +20,7 @@ class Result
     /*
      * Complete the 'fizzBuzz' function below.
      *
+     * used any number in the test cases like 150
      * The function accepts INTEGER n as parameter.
      */
     
